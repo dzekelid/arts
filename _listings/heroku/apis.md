@@ -38,7 +38,7 @@ apis:
   tags: Art
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/heroku/apps-app-ps-restart-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/heroku/apps-app-ps-restart-post.md
 x-common:
 - type: x-base
   url: https://api.heroku.com
