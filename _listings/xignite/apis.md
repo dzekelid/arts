@@ -49,7 +49,7 @@ apis:
   tags: Art
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/xignite/getcurrencyintradaychartcustom-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/xignite/getchartdesign-post.md
 x-common:
 - type: x-net-sdk
   url: http://xignite.github.io/DotNetSDK/
