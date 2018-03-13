@@ -48,7 +48,7 @@ apis:
   tags: Art
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/aws-cloudhsm/action-createhapg-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/aws-cloudhsm/action-deletehapg-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/cloudhsm/latest/dg/
