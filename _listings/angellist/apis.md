@@ -33,7 +33,7 @@ apis:
   tags: Art
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/angellist/status-updates-status-update-id-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/angellist/tags-tag-id-get.md
 x-common:
 - type: x-blog
   url: https://blog.angel.co
