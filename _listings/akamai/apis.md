@@ -33,7 +33,7 @@ apis:
   tags: Art
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/akamai/data-dns-v1-traffic-zone-start,start-time,end,end-time,end-time,time-zone,include-estimates-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/akamai/etp-report-v1-configs-configid-threat-events-aggregate-starttimesec,endtimesec,dimension,filters-get.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
