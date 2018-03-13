@@ -32,7 +32,7 @@ apis:
   tags: Art
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/reddit/r-subreddit-comments-article-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/reddit/duplicates-article-get.md
 x-common:
 - type: x-authentication
   url: https://github.com/reddit/reddit/wiki/OAuth2
