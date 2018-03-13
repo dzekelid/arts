@@ -33,7 +33,7 @@ apis:
   tags: Art
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/angellist/status-updates-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/angellist/status-updates-post.md
 x-common:
 - type: x-blog
   url: https://blog.angel.co
