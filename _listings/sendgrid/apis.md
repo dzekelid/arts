@@ -35,7 +35,7 @@ apis:
   tags: Art
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/sendgrid/partner-settings-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/sendgrid/partner-settings-new-relic-get.md
 x-common:
 - type: x-net-library
   url: https://sendgrid.com/docs/Code_Examples/csharp.html
