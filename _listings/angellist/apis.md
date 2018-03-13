@@ -33,7 +33,7 @@ apis:
   tags: Art
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/angellist/likes-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/angellist/likes-like-id-delete.md
 x-common:
 - type: x-blog
   url: https://blog.angel.co
