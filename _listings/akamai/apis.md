@@ -33,7 +33,7 @@ apis:
   tags: Art
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/akamai/events-v2-accountid-events-id-startrange,endrange,sortfield,sortorder,startindex,limit,customereventid-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/akamai/events-v2-accountid-srip-sortfield,sortorder,limit,startindex-get.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
