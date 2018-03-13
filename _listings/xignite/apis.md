@@ -49,7 +49,7 @@ apis:
   tags: Art
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/xignite/getintradayfuturechart-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/xignite/getintradayfuturechartbinary-post.md
 x-common:
 - type: x-net-sdk
   url: http://xignite.github.io/DotNetSDK/
