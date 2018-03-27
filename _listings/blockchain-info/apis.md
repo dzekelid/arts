@@ -13,9 +13,9 @@ tags:
 - Marketplace
 - internet
 - Blockchains
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/blockchain-info/apis.yaml
+created: "2018-03-27"
+modified: "2018-03-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/blockchain-info/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Blockchain Info
@@ -25,10 +25,10 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-blockchain-info.jpg
   humanURL: ""
   baseURL: https://blockchain.info/
-  tags: Art
+  tags: Arts
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/blockchain-info/charts-chart-type-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/blockchain-info/blockchain,s-get.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/blockchain-info
