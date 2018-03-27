@@ -18,9 +18,9 @@ tags:
 - Discovery
 - Containers
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/aws-ec2-container-registry-service/apis.yaml
+created: "2018-03-27"
+modified: "2018-03-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/aws-ec2-container-registry-service/apis.yaml
 specificationVersion: "0.14"
 apis: []
 x-common:
