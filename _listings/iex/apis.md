@@ -8,9 +8,9 @@ x-alexaRank: "225220"
 tags:
 - Marketplace
 - Market Data
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/iex/apis.yaml
+created: "2018-03-27"
+modified: "2018-03-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/iex/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: IEX Trading API
@@ -19,10 +19,10 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IEX-Logo.png
   humanURL: ""
   baseURL: https://api.iextrading.com//1.0
-  tags: Art
+  tags: Arts
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/art/master/_listings/iex/stock-symbol-chart-range-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/iex/market-data,s-get.md
 x-common:
 - type: x-authentication
   url: https://iextrading.com/developer/docs/#authentication
