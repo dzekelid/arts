@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Glacier API
+  title: Amazon Glacier API Upload  Part
   version: 1.0.0
+  description: DescriptionThis multipart upload operation uploads a part of an archive
 schemes:
 - http
 produces:
