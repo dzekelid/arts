@@ -28,7 +28,32 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/aws-glacier/accountid-vaults-vaultname-multipart-uploads-uploadid-put.md
+- name: Amazon Glacier API List  Parts
+  description: "DescriptionThis multipart upload operation lists the parts of an archive
+    that have been uploaded in a\n\t\t\tspecific multipart upload identified by an
+    upload ID"
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AmazonGlacier.png
+  humanURL: https://aws.amazon.com/glacier/
+  baseURL: http:://{host}//
+  tags: Arts
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/aws-glacier/accountid-vaults-vaultname-multipart-uploads-uploadid-get.md
 x-common:
+- type: x-change-log
+  url: http://aws.amazon.com/releasenotes/Amazon-Glacier/
+- type: x-documentation
+  url: http://docs.aws.amazon.com/amazonglacier/latest/dev/amazon-glacier-api.html
+- type: x-faq
+  url: https://aws.amazon.com/glacier/faqs/
+- type: x-forum
+  url: https://forums.aws.amazon.com/forum.jspa?forumID=140
+- type: x-getting-started
+  url: https://aws.amazon.com/glacier/getting-started/
+- type: x-pricing
+  url: https://aws.amazon.com/glacier/pricing/
+- type: x-website
+  url: https://aws.amazon.com/glacier/
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/Amazon-Glacier/
 - type: x-documentation
