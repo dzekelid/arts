@@ -13,9 +13,9 @@ tags:
 - Storage
 - Stack Network
 - Amazon Web Services
-created: "2018-03-27"
-modified: "2018-03-27"
-url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/aws-glacier/apis.yaml
+created: "2018-05-12"
+modified: "2018-05-12"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/aws-glacier/apis.md
 specificationVersion: "0.14"
 apis:
 - name: Amazon Glacier API
@@ -27,7 +27,7 @@ apis:
   tags: Arts
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/aws-glacier/accountid-vaults-vaultname-multipart-uploads-uploadid-put.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/aws-glacier/accountid-vaults-vaultname-multipart-uploads-uploadid-get.md
 x-common:
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/Amazon-Glacier/
