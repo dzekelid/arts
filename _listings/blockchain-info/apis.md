@@ -29,7 +29,26 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/blockchain-info/blockchain,s-get.md
+- name: Blockchain Info Chart Type
+  description: Returns chart types.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-blockchain-info.jpg
+  humanURL: https://blockchain.info
+  baseURL: https://blockchain.info//
+  tags: Arts
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/blockchain-info/blockchain,s-get.md
 x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/blockchain-info
+- type: x-documentation
+  url: https://blockchain.info/api
+- type: x-twitter
+  url: https://twitter.com/blockchain
+- type: x-website
+  url: https://blockchain.info
+- type: x-websockets
+  url: https://blockchain.info/api/api_websocket
 - type: x-crunchbase
   url: https://crunchbase.com/organization/blockchain-info
 - type: x-documentation
