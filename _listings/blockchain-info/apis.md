@@ -13,9 +13,9 @@ tags:
 - Marketplace
 - internet
 - Blockchains
-created: "2018-03-27"
-modified: "2018-03-27"
-url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/blockchain-info/apis.yaml
+created: "2018-05-12"
+modified: "2018-05-12"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/arts/master/_listings/blockchain-info/apis.md
 specificationVersion: "0.14"
 apis:
 - name: Blockchain Info
